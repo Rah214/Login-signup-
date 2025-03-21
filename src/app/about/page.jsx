@@ -90,34 +90,3 @@ const AboutPage = () => {
 
 export default AboutPage;
 
-
-
-
-
-
-
-// About Us
-// We are a passionate team dedicated to building innovative solutions that make a difference. Our mission is to empower individuals and businesses through cutting-edge technology and exceptional service.
-
-// Our Mission
-// To provide innovative and reliable solutions that help our users achieve their goals. We strive to make technology accessible and impactful for everyone.
-
-// Our Vision
-// We envision a world where technology bridges gaps and creates opportunities for growth, collaboration, and success.
-
-// Our Values
-// Integrity, innovation, and inclusivity are at the core of everything we do. We believe in building trust and delivering excellence.
-
-// Our Team
-// Our team consists of talented and dedicated professionals who are passionate about solving problems and creating value for our users.
-
-// Our Journey
-// From humble beginnings to a growing platform, our journey has been fueled by a commitment to innovation and customer satisfaction.
-
-// Our Impact
-// We are proud to have made a positive impact on the lives of thousands of users and businesses worldwide.
-
-// Join Us on Our Journey
-// Whether you're a user, partner, or team member, we invite you to be part of our mission to create a better future.
-
-// Get Started
